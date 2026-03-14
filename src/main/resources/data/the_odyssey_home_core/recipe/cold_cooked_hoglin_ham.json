@@ -1,0 +1,14 @@
+{
+  "type": "kaleidoscope_cookery:pot",
+  "ingredients": [
+    {
+      "item": "eldritch_feast:raw_hoglin_ham"
+    }
+  ],
+  "result": {
+    "id": "eldritch_feast:cooked_hoglin_ham",
+    "count": 1
+  },
+  "time": 200,
+  "stir_fry_count": 3
+}

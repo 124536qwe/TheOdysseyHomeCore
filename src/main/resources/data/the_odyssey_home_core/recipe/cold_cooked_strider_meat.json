@@ -1,0 +1,14 @@
+{
+  "type": "kaleidoscope_cookery:pot",
+  "ingredients": [
+    {
+      "item": "eldritch_feast:raw_strider_meat"
+    }
+  ],
+  "result": {
+    "id": "eldritch_feast:cooked_strider_meat",
+    "count": 1
+  },
+  "time": 200,
+  "stir_fry_count": 3
+}

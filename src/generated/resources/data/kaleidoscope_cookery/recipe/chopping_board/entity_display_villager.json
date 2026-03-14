@@ -1,0 +1,12 @@
+{
+  "type": "kaleidoscope_cookery:chopping_board",
+  "cut_count": 4,
+  "ingredient": {
+    "item": "eldritch_feast:entity_display"
+  },
+  "model_id": "kaleidoscope_cookery:raw_pork_belly",
+  "result": {
+    "count": 5,
+    "id": "eldritch_feast:heart_of_villager"
+  }
+}

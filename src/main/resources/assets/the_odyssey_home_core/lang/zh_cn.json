@@ -1,0 +1,47 @@
+{
+  "itemGroup.the_odyssey_home_core.eldritch_food": "归途旅记: 美食",
+
+  "block.the_odyssey_home_core.ice_stove": "冰霜炉灶",
+  "item.the_odyssey_home_core.ice_stove": "冰霜炉灶",
+  "block.the_odyssey_home_core.blast_furnace_brick": "冶炼炉砖块",
+  "item.the_odyssey_home_core.blast_furnace_brick": "冶炼炉砖块",
+
+  "item.the_odyssey_home_core.engineering_hammer": "工程锤",
+  "block.the_odyssey_home_core.blast_furnace_core": "冶炼炉核心",
+  "tooltip.the_odyssey_home_core.ice_stove": "以冰为燃料的寒冷热源",
+
+  "item.the_odyssey_home_core.entity_display": "生物展示",
+  "item.the_odyssey_home_core.klein_net": "克莱因网",
+  "tooltip.the_odyssey_home_core.klein_net.0": "可以捕捉血量低于10%的生物",
+  "tooltip.the_odyssey_home_core.entity_display.0": "下蹲+右键释放生物",
+
+  "item.the_odyssey_home_core.heart_of_villager": "村民心脏",
+  "item.the_odyssey_home_core.head_of_villager": "村民头颅",
+  "item.the_odyssey_home_core.arm_of_villager": "村民手臂",
+  "item.the_odyssey_home_core.leg_of_villager": "村民腿部",
+  "item.the_odyssey_home_core.body_of_villager": "村民躯体",
+  "item.the_odyssey_home_core.meat_of_villager": "村民肉",
+  "item.the_odyssey_home_core.kidney_of_villager": "村民肾脏",
+  "item.the_odyssey_home_core.liver_of_villager": "村民肝脏",
+  "item.the_odyssey_home_core.lung_of_villager": "村民肺部",
+
+  "item.the_odyssey_home_core.ghast_tentacle": "恶魂触须",
+  "item.the_odyssey_home_core.ghast_slice": "恶魂切片",
+
+  "item.the_odyssey_home_core.raw_hoglin_ham": "生疣猪火腿",
+  "item.the_odyssey_home_core.cooked_hoglin_ham": "熟疣猪火腿",
+  "item.the_odyssey_home_core.raw_strider_meat": "生炽足兽肉",
+  "item.the_odyssey_home_core.cooked_strider_meat": "熟炽足兽肉",
+
+  "item.the_odyssey_home_core.warped_tumor": "诡异瘤",
+  "item.the_odyssey_home_core.crimson_fruit": "绯红果",
+  "item.the_odyssey_home_core.soul_berry": "灵魂浆果",
+
+  "item.the_odyssey_home_core.corn": "玉米",
+  "item.the_odyssey_home_core.corn_seed": "玉米种子",
+  "item.the_odyssey_home_core.eggplant": "茄子",
+  "item.the_odyssey_home_core.eggplant_seed": "茄子种子",
+  "item.the_odyssey_home_core.starfruit": "杨桃",
+  "item.the_odyssey_home_core.starfruit_seed": "杨桃种子",
+  "item.the_odyssey_home_core.carrot_slice": "胡萝卜片"
+}

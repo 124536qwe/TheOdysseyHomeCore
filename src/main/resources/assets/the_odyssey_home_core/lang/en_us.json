@@ -1,0 +1,47 @@
+{
+  "itemGroup.the_odyssey_home_core.eldritch_food": "The Odyssey Home Core: Food",
+
+  "block.the_odyssey_home_core.ice_stove": "Ice Stove",
+  "item.the_odyssey_home_core.ice_stove": "Ice Stove",
+  "block.the_odyssey_home_core.blast_furnace_brick": "Blast Furnace Brick",
+  "item.the_odyssey_home_core.blast_furnace_brick": "Blast Furnace Brick",
+
+  "item.the_odyssey_home_core.engineering_hammer": "Engineering Hammer",
+  "block.the_odyssey_home_core.blast_furnace_core": "Blast Furnace Core",
+  "tooltip.the_odyssey_home_core.ice_stove": "Cold heat source, lit with ice.",
+
+  "item.the_odyssey_home_core.entity_display": "Entity Display",
+  "item.the_odyssey_home_core.klein_net": "Klein Net",
+  "tooltip.the_odyssey_home_core.klein_net.0": "Can capture entities with health below 10%",
+  "tooltip.the_odyssey_home_core.entity_display.0": "Crouch + Right-click to release entity",
+
+  "item.the_odyssey_home_core.heart_of_villager": "Heart of Villager",
+  "item.the_odyssey_home_core.head_of_villager": "Head of Villager",
+  "item.the_odyssey_home_core.arm_of_villager": "Arm of Villager",
+  "item.the_odyssey_home_core.leg_of_villager": "Leg of Villager",
+  "item.the_odyssey_home_core.body_of_villager": "Body of Villager",
+  "item.the_odyssey_home_core.meat_of_villager": "Meat of Villager",
+  "item.the_odyssey_home_core.kidney_of_villager": "Kidney of Villager",
+  "item.the_odyssey_home_core.liver_of_villager": "Liver of Villager",
+  "item.the_odyssey_home_core.lung_of_villager": "Lung of Villager",
+
+  "item.the_odyssey_home_core.ghast_tentacle": "Ghast Tentacle",
+  "item.the_odyssey_home_core.ghast_slice": "Ghast Slice",
+
+  "item.the_odyssey_home_core.raw_hoglin_ham": "Raw Hoglin Ham",
+  "item.the_odyssey_home_core.cooked_hoglin_ham": "Cooked Hoglin Ham",
+  "item.the_odyssey_home_core.raw_strider_meat": "Raw Strider Meat",
+  "item.the_odyssey_home_core.cooked_strider_meat": "Cooked Strider Meat",
+
+  "item.the_odyssey_home_core.warped_tumor": "Warped Tumor",
+  "item.the_odyssey_home_core.crimson_fruit": "Crimson Fruit",
+  "item.the_odyssey_home_core.soul_berry": "Soul Berry",
+
+  "item.the_odyssey_home_core.corn": "Corn",
+  "item.the_odyssey_home_core.corn_seed": "Corn Seed",
+  "item.the_odyssey_home_core.eggplant": "Eggplant",
+  "item.the_odyssey_home_core.eggplant_seed": "Eggplant Seed",
+  "item.the_odyssey_home_core.starfruit": "Starfruit",
+  "item.the_odyssey_home_core.starfruit_seed": "Starfruit Seed",
+  "item.the_odyssey_home_core.carrot_slice": "Carrot Slice"
+}

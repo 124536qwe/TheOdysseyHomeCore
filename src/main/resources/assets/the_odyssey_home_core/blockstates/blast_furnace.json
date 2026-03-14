@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,lit=false": { "model": "eldritch_feast:block/blast_furnace", "y": 180 },
+    "facing=south,lit=false": { "model": "eldritch_feast:block/blast_furnace" },
+    "facing=west,lit=false": { "model": "eldritch_feast:block/blast_furnace", "y": 90 },
+    "facing=east,lit=false": { "model": "eldritch_feast:block/blast_furnace", "y": 270 },
+    "facing=north,lit=true": { "model": "eldritch_feast:block/blast_furnace_lit", "y": 180 },
+    "facing=south,lit=true": { "model": "eldritch_feast:block/blast_furnace_lit" },
+    "facing=west,lit=true": { "model": "eldritch_feast:block/blast_furnace_lit", "y": 90 },
+    "facing=east,lit=true": { "model": "eldritch_feast:block/blast_furnace_lit", "y": 270 }
+  }
+}

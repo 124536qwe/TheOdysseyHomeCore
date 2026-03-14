@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "eldritch_feast:block/ice_stove_top_lit",
+    "east": "eldritch_feast:block/ice_stove_side",
+    "north": "eldritch_feast:block/ice_stove_front_lit",
+    "particle": "eldritch_feast:block/ice_stove_side",
+    "south": "eldritch_feast:block/ice_stove_side",
+    "up": "eldritch_feast:block/ice_stove_top_lit",
+    "west": "eldritch_feast:block/ice_stove_side"
+  }
+}
