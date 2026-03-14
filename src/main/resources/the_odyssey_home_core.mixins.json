@@ -1,6 +1,6 @@
 {
   "required": true,
-  "package": "com.seeds.eldritchfeast.mixin",
+  "package": "com.seeds.theodysseyhomecore.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
     "PotBlockEntityMixin",
